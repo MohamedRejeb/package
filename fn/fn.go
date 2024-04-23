@@ -6,7 +6,7 @@ import (
 )
 
 func DoSmth(str string) {
-	fmt.Println(strings.ToUpper(str))
+	fmt.Println(strings.ToLower(str))
 }
 
 func WhoAmI(name string, age int) string {
