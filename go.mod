@@ -1,3 +1,3 @@
-module github.com/Adem20021920/package
+module github.com/adembc/package
 
 go 1.22.2

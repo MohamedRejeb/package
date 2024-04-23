@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/Adem20021920/package/fn"
-	"github.com/Adem20021920/package/pkg"
+	"github.com/adembc/package/fn"
+	"github.com/adembc/package/pkg"
 )
 
 func main() {
